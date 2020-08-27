@@ -1,8 +1,8 @@
 # Cicocore Lib
 
 [![NPM Package](https://img.shields.io/npm/v/cicocore-lib.svg?style=flat-square)](https://www.npmjs.org/package/cicocore-lib)
-[![Build Status](https://img.shields.io/travis/bitpay/cicocore-lib.svg?branch=master&style=flat-square)](https://travis-ci.org/bitpay/cicocore-lib)
-[![Coverage Status](https://img.shields.io/coveralls/bitpay/cicocore-lib.svg?style=flat-square)](https://coveralls.io/r/bitpay/cicocore-lib)
+[![Build Status](https://img.shields.io/travis/coinicles/cicocore-lib.svg?branch=master&style=flat-square)](https://travis-ci.org/coinicles/cicocore-lib)
+[![Coverage Status](https://img.shields.io/coveralls/coinicles/cicocore-lib.svg?style=flat-square)](https://coveralls.io/r/coinicles/cicocore-lib)
 
 **A pure and powerful JavaScript Bitcoin library.**
 
@@ -22,7 +22,7 @@ bower install cicocore-lib
 
 ## Documentation
 
-The complete docs are hosted here: [cicocore documentation](https://github.com/bitpay/cicocore). There's also a [cicocore API reference](https://github.com/bitpay/cicocore/blob/master/packages/cicocore-node/docs/api-documentation.md) available generated from the JSDocs of the project, where you'll find low-level details on each cicocore utility.
+The complete docs are hosted here: [cicocore documentation](https://github.com/coinicles/cicocore). There's also a [cicocore API reference](https://github.com/coinicles/cicocore/blob/master/packages/cicocore-node/docs/api-documentation.md) available generated from the JSDocs of the project, where you'll find low-level details on each cicocore utility.
 
 ## Examples
 
@@ -46,12 +46,12 @@ gulp browser
 
 This will generate files named `cicocore-lib.js` and `cicocore-lib.min.js`.
 
-You can also use our pre-generated files, provided for each release along with a PGP signature by one of the project's maintainers. To get them, checkout the [releases](https://github.com/bitpay/cicocore/blob/master/packages/cicocore-lib/CHANGELOG.md).
+You can also use our pre-generated files, provided for each release along with a PGP signature by one of the project's maintainers. To get them, checkout the [releases](https://github.com/coinicles/cicocore/blob/master/packages/cicocore-lib/CHANGELOG.md).
 
 ## Development & Tests
 
 ```sh
-git clone https://github.com/bitpay/cicocore-lib
+git clone https://github.com/coinicles/cicocore-lib
 cd cicocore-lib
 npm install
 ```
@@ -68,14 +68,14 @@ You can also run just the Node.js tests with `gulp test:node`, just the browser 
 
 We're using Cicocore in production, as are many others, but please use common sense when doing anything related to finances! We take no responsibility for your implementation decisions.
 
-If you find a security issue, please email security@bitpay.com.
+If you find a security issue, please email security@coinicles.com.
 
 ## Contributing
 
-See [CONTRIBUTING.md](https://github.com/bitpay/cicocore/blob/master/Contributing.md) on the main cicocore repo for information about how to contribute.
+See [CONTRIBUTING.md](https://github.com/coinicles/cicocore/blob/master/Contributing.md) on the main cicocore repo for information about how to contribute.
 
 ## License
 
-Code released under [the MIT license](https://github.com/bitpay/cicocore/blob/master/LICENSE).
+Code released under [the MIT license](https://github.com/coinicles/cicocore/blob/master/LICENSE).
 
 Copyright 2013-2019 BitPay, Inc. Cicocore is a trademark maintained by BitPay, Inc.

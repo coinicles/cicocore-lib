@@ -39,13 +39,13 @@ To get started, just `npm install cicocore` or `bower install cicocore`.
 
 Some functionality is implemented as a module that can be installed separately:
 
-- [Peer to Peer Networking](https://github.com/bitpay/cicocore/tree/master/packages/cicocore-p2p)
-- [Bitcoin Core JSON-RPC](https://github.com/bitpay/bitcoind-rpc)
-- [Payment Channels](https://github.com/bitpay/cicocore-channel)
-- [Mnemonics](https://github.com/bitpay/cicocore/tree/master/packages/cicocore-mnemonic)
-- [Elliptical Curve Integrated Encryption Scheme](https://github.com/bitpay/cicocore-ecies)
-- [Blockchain Explorers](https://github.com/bitpay/cicocore-explorers)
-- [Signed Messages](https://github.com/bitpay/cicocore-message)
+- [Peer to Peer Networking](https://github.com/coinicles/cicocore/tree/master/packages/cicocore-p2p)
+- [Bitcoin Core JSON-RPC](https://github.com/coinicles/bitcoind-rpc)
+- [Payment Channels](https://github.com/coinicles/cicocore-channel)
+- [Mnemonics](https://github.com/coinicles/cicocore/tree/master/packages/cicocore-mnemonic)
+- [Elliptical Curve Integrated Encryption Scheme](https://github.com/coinicles/cicocore-ecies)
+- [Blockchain Explorers](https://github.com/coinicles/cicocore-explorers)
+- [Signed Messages](https://github.com/coinicles/cicocore-message)
 
 ## Examples
 

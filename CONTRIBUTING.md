@@ -6,8 +6,8 @@ We're working hard to make *cicocore* the most powerful JavaScript library for w
 
 If there are any questions, etc., please feel to ask in one of the community channels:
 
-- [Support Forum](https://labs.bitpay.com/c/cicocore)
-- [Development Chat](https://gitter.im/bitpay/cicocore)
+- [Support Forum](https://labs.coinicles.com/c/cicocore)
+- [Development Chat](https://gitter.im/coinicles/cicocore)
 
 ## Quick Checklist
 
@@ -258,8 +258,8 @@ git checkout -b remove/some-file
 We expect pull requests to be rebased to the master branch before merging:
 
 ```sh
-git remote add bitpay git@github.com:bitpay/cicocore.git
-git pull --rebase bitpay master
+git remote add coinicles git@github.com:coinicles/cicocore.git
+git pull --rebase coinicles master
 ```
 
 Note that we require rebasing your branch instead of merging it, for commit readability reasons.
@@ -272,11 +272,11 @@ git push origin feature/some-new-stuff
 git push origin fix/some-bug
 ```
 
-Finally go to [github.com/bitpay/cicocore](https://github.com/bitpay/cicocore) in your web browser and issue a new pull request.
+Finally go to [github.com/coinicles/cicocore](https://github.com/coinicles/cicocore) in your web browser and issue a new pull request.
 
 Main contributors will review your code and possibly ask for changes before your code is pulled in to the main repository.  We'll check that all tests pass, review the coding style, and check for general code correctness. If everything is OK, we'll merge your pull request and your code will be part of cicocore.
 
 If you have any questions feel free to post them to
-[github.com/bitpay/cicocore/issues](https://github.com/bitpay/cicocore/issues).
+[github.com/coinicles/cicocore/issues](https://github.com/coinicles/cicocore/issues).
 
 Thanks for your time and code!
